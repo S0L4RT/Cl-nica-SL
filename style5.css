@@ -206,3 +206,14 @@ input, textarea{
 #telefone{
     width: 347px;
 }
+
+/* Estilização do rodapé */
+footer {
+    background-color: black;
+    color: white;
+    padding: 55px;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    margin-top: 7%;
+}
