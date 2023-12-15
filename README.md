@@ -22,3 +22,17 @@
 
 
 ## Layout no Desktop
+## Página inicial:
+![image](https://github.com/S0L4RT/Cl-nica-SL/assets/134110407/7fb92b71-1275-4429-907e-62e179e59007)
+
+## Página de exames:
+![image](https://github.com/S0L4RT/Cl-nica-SL/assets/134110407/d5c28ead-10bd-42d4-9b70-60e3dec84f8d)
+
+## Página de profissionais:
+![image](https://github.com/S0L4RT/Cl-nica-SL/assets/134110407/d9de60c8-e84d-46d4-878b-c1cfce1e8101)
+
+## Página de locais e contato:
+![image](https://github.com/S0L4RT/Cl-nica-SL/assets/134110407/2f84df77-03ac-4ab1-92d2-8729b2588069)
+
+## Página de serviços:
+![image](https://github.com/S0L4RT/Cl-nica-SL/assets/134110407/b3de38ee-4d69-403a-a124-872b9b69add6)
