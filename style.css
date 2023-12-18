@@ -103,6 +103,7 @@ header{
 header > .interface{
     display: flex;
     align-items: center;
+    justify-content: space-between;
 }
 
 header a{
@@ -187,6 +188,10 @@ main{
     padding: 2%;
 }
 
+p{
+    text-align: justify;
+}
+
 /* Deixando o site responsivo */
 @media screen and (max-width: 600px){
     header{
@@ -195,18 +200,32 @@ main{
     
     .logo{
         width: 20%;
+        padding: 10%;
+        margin-top: -40%;
     }
 
     .menu{
         margin-top: 40%;
-        padding: 2%;
+        padding: 2px;
+        margin-left: -20%;
+        padding-right: 1%;
+        font-size: x-large;
+    }
+
+    main{
+        margin-top: 10%;
     }
 
     .btn-servicos{
-        margin-top: 40%;
+        margin-top: 55%;
+        font-size: x-large;
     }
 
     footer{
         padding: 10px;
+    }
+
+    p{
+        text-align: justify;
     }
 }
