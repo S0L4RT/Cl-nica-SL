@@ -21,7 +21,7 @@
 ![image](https://github.com/S0L4RT/Cl-nica-SL/assets/134110407/03f9edd7-8c96-4079-83eb-0532e1ccd6ba)
 
 
-## Layout no Desktop
+# Layout no Desktop
 ## Página inicial:
 ![image](https://github.com/S0L4RT/Cl-nica-SL/assets/134110407/7fb92b71-1275-4429-907e-62e179e59007)
 
@@ -36,3 +36,19 @@
 
 ## Página de serviços:
 ![image](https://github.com/S0L4RT/Cl-nica-SL/assets/134110407/b3de38ee-4d69-403a-a124-872b9b69add6)
+
+# Layout no Mobile
+## Página inicial:
+![image](https://github.com/S0L4RT/Cl-nica-SL/assets/134110407/babed75c-0a4c-4d1c-91c6-5e3299aee3d3)
+
+## Página de exames:
+![image](https://github.com/S0L4RT/Cl-nica-SL/assets/134110407/bb87f3f9-893a-4a29-89ca-9f3d315bf92b)
+
+## Página de profissionais:
+![image](https://github.com/S0L4RT/Cl-nica-SL/assets/134110407/a3f51abe-0a9c-48f3-84ca-b29e3e40eea0)
+
+## Página de locais e contato:
+![image](https://github.com/S0L4RT/Cl-nica-SL/assets/134110407/166764de-6c56-4c7a-8a5b-96a838d4d575)
+
+## Páginade serviços:
+![image](https://github.com/S0L4RT/Cl-nica-SL/assets/134110407/c162e83b-466e-4b8f-927d-6a7a1c76618f)
