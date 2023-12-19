@@ -172,11 +172,15 @@ footer{
 
     p{
         text-align: justify;
+        font-size: x-large;
     }
 
     #mario{
         padding: 7%;
+    }
 
+    #img1{
+        margin-left: 10%;
     }
 
     #sonico{
@@ -187,7 +191,7 @@ footer{
         padding: 7%;
     }
 
-    #img3{
+    #img{
         width: 325px;
         height: 250px;
     }
