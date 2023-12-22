@@ -4,6 +4,9 @@
  # Sobre o Projeto
  Clínica Médica São Lucas é um projeto da disciplina de Projeto Aplicado onde temos que contruir um site usando HTML, CSS e JavaScript de uma clínica médica.
 
+link para o projeto:
+https://s0l4rt.github.io/Cl-nica-SL/
+
  # Design do site
 ## Página inicial:
 ![image](https://github.com/S0L4RT/Cl-nica-SL/assets/134110407/c1c99bdf-f2fd-43a0-b402-ec61c56e29f1)
